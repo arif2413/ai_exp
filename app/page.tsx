@@ -1,4 +1,4 @@
-import {TodoList} from "@/components/todo-list";
+import {TodoList} from "@/todo-list";
 
 export default function Home() {
   return (
